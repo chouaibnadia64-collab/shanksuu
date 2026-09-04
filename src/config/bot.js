@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "morvex community
+        name: "morvex community",
         ", // required by Discord API, not shown in the client
         state: "stalking",     // this is what people actually see
         type: 4,               // Custom
